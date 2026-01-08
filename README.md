@@ -20,7 +20,6 @@ Table of contents
 - [Limitations](#limitations)
 - [Extending the project](#extending-the-project)
 - [Assumptions](#assumptions)
-- [License](#license)
 
 ## What this is
 
