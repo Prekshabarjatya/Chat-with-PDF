@@ -1,4 +1,4 @@
-# Chat-with-PDF
+# Document RAG pipeline with LangChain & Vector DB
 
 A minimal Retrieval-Augmented Generation (RAG) reference that lets you ask questions about a single PDF and returns answers strictly grounded in the document with page-level citations.
 
